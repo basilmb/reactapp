@@ -1,0 +1,64 @@
+.edit-body {
+      background-color: #fff;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .edit-card {
+      width: 400px;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.6);
+      border-radius: 4px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+      
+      .user-edit-h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #0d6efd;
+      }
+      
+      .form-group-edit {
+        margin-bottom: 1rem;
+      }
+      
+    .edit-label{
+        display: block;
+        margin-bottom: 0.5rem;
+        color: #0d6efd;
+      }
+      
+      .form-edit {
+        width: 100%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      
+      .btn-primary-edit {
+        background-color: #0d6efd;
+        color: white;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 50%;
+        font-weight: 600;
+    
+      }
+  
+      .btn-div-edit{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      }
+    
+  
+      .btn-primary-edit:hover{
+        background-color: #0b5ed7;
+      }
